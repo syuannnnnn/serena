@@ -1,5 +1,5 @@
 function _1(md){return(
-md`#  作業六(備份)`
+md`#  作業六`
 )}
 
 function _artistver(__query,FileAttachment,invalidation){return(
