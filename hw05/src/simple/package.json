@@ -1,0 +1,14 @@
+{
+  "name": "19c593827b3d41f6",
+  "main": "19c593827b3d41f6@15.js",
+  "version": "15.0.0",
+  "homepage": "https://observablehq.com/d/19c593827b3d41f6",
+  "author": {
+    "name": "曾詠暄's Workspace",
+    "url": "https://observablehq.com/@ceng-yong-xuan-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
