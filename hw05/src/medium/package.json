@@ -1,0 +1,14 @@
+{
+  "name": "2250a1677b01c264",
+  "main": "2250a1677b01c264@20.js",
+  "version": "20.0.0",
+  "homepage": "https://observablehq.com/d/2250a1677b01c264",
+  "author": {
+    "name": "曾詠暄's Workspace",
+    "url": "https://observablehq.com/@ceng-yong-xuan-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
